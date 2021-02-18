@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samibahig
 - 👀 I’m interested in Machine Learning and Deep Learning Projects on Health Care or Humanitarian Projects
-- 🌱 I’m currently learning Artificial Intelligene at University of Montreal
-- 💞️ I’m looking to collaborate on local projects in Canada where i live, or even internationnal projects
+- 🌱 I’m currently learning Artificial Intelligence at University of Montreal
+- 💞️ I’m looking to collaborate on local projects in Canada where i live, or even for any internationnal projects.
 - 📫 How to reach me 438-225-9444, or samibahig@gmail.com
 
 <!---
