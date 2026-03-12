@@ -10,6 +10,7 @@
 ⚙️ **Approach** — Systems Thinking & Clinical Governance applied to Healthcare AI  
 🔒 **Ethics** — Responsible AI · IEEE AI Ethics · Clinical data privacy (Loi 25 · HIPAA) · CHDA 
    · AI safety in high-stakes medical environments
+🌍 **Languages** — French · English · Arabic
 
 ---
 
@@ -31,7 +32,10 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
-
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?logo=huggingface&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ---
 
 ## 📫 Contact
