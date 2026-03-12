@@ -5,7 +5,7 @@
 ---
 
 🏥 **Medical background** — Medicine, Pharmacology, Oncology & Family Medicine/ER  
-🧠 **AI expertise** — NLP, Computer Vision, Pharmacovigilance, Medical Imaging  
+🧠 **AI expertise** — Clincal Workflow, NLP, Computer Vision, Pharmacovigilance, Medical Imaging  
 🔬 **Research experience** — MILA (Université de Montréal) & CRCHUM  
 ⚙️ **Approach** — Systems Thinking & Clinical Governance applied to Healthcare AI  
 🔒 **Ethics** — Projects developed in secure clinical environments (Loi 25, Québec)
