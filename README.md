@@ -8,7 +8,8 @@
 🧠 **AI expertise** — Clincal Workflow, NLP, Computer Vision, Pharmacovigilance, Medical Imaging  
 🔬 **Research experience** — MILA (Université de Montréal) & CRCHUM  
 ⚙️ **Approach** — Systems Thinking & Clinical Governance applied to Healthcare AI  
-🔒 **Ethics** — Projects developed in secure clinical environments (Loi 25, Québec)
+🔒 **Ethics** — Responsible AI · IEEE AI Ethics · Clinical data privacy (Loi 25 · HIPAA) · CHDA 
+   · AI safety in high-stakes medical environments
 
 ---
 
