@@ -1,10 +1,43 @@
-- 👋 Hi, I’m @samibahig
-- 👀 I’m interested in Machine Learning and Deep Learning Projects on Health Care or Humanitarian Projects
-- 🌱 I’m currently learning Artificial Intelligence at University of Montreal
-- 💞️ I’m looking to collaborate on local projects in Canada where i live, or even for any internationnal projects.
-- 📫 How to reach me 438-225-9444, or samibahig@gmail.com
+# 👋 Hi, I'm Sami Bahig
 
-<!---
-samibahig/samibahig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Data Scientist | Healthcare AI | Medicine · Pharmacology · Oncology
+
+---
+
+🏥 **Medical background** — Medicine, Pharmacology, Oncology & Family Medicine/ER  
+🧠 **AI expertise** — NLP, Computer Vision, Pharmacovigilance, Medical Imaging  
+🔬 **Research experience** — MILA (Université de Montréal) & CRCHUM  
+⚙️ **Approach** — Systems Thinking & Clinical Governance applied to Healthcare AI  
+🔒 **Ethics** — Projects developed in secure clinical environments (Loi 25, Québec)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**FAERS 2025**](https://github.com/samibahig/faers-2025-pharmacovigilance) | Big Data analysis of 7.8M FDA adverse event reports — Signal detection & NLP | Python · Plotly · NLP |
+| [**TDM Protocol Classification**](https://github.com/samibahig/Prediction-Image-Protocole-) | Automatic CT scan protocol prediction from handwritten radiology forms — OCR + CamemBERT | PyTorch · HuggingFace · OCR |
+| [**RAG Chatbot**](https://github.com/samibahig/RAG_Chatbot) | Retrieval-Augmented Generation chatbot | Python · RAG |
+
+---
+
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sami_Bahig-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-bahig/)
+[![Email](https://img.shields.io/badge/Email-samibahig@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:samibahig@gmail.com)
+
+---
+
+*🌍 Open to collaboration on Healthcare AI & Humanitarian projects — Canada & International*
